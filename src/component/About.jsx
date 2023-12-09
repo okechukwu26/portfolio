@@ -10,7 +10,7 @@ const About = () => {
       <div className="w-full md:h-[#290px] lg:w-1/3 flex flex-col items-center border border-gray-500 dark:bg-transparent rounded-md ">
         <img
           src={avatar}
-          className="h-[290px] p-1 rounded-md ease-in-out duration-300 hover:scale-125"
+          className="h-[290px] p-1 rounded-md ease-in-out duration-300 hover:scale-125" alt="avatar"
         />
       </div>
       <div className="w-full flex flex-col">

@@ -9,18 +9,15 @@ import {
   Nodejs,
   Python,
   Reactjs,
-  admin,
   food,
   food1,
-  port1,
-  port2,
   port3,
   social,
   Drag,
   Beach,
   Price
 } from "./assets";
-import drag from "./assets/drag.png"
+
 
 export const projectStats = [
   {

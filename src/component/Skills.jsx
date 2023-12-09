@@ -16,7 +16,7 @@ const Skills = () => {
             className="flex gap-4 shadow-lg py-2 px-6 bg-[#04133e] rounded-full items-center hover:animate-bounce ease-in-out duration-300"
           >
             <div className="w-10 h-10">
-              <img src={skill.icon} className="w-full h-full rounded-full" />
+              <img src={skill.icon} className="w-full h-full rounded-full" alt="skill" />
             </div>
             <div className="flex flex-col gap-1">
               <div className="flex items-center justify-between ">
