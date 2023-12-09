@@ -36,7 +36,7 @@ const Footer = () => {
         </div>
 
         <p className="text-gray-400 text-md tracking-wider">
-          © 2023 Portfolio. All rights reserved.
+          © 2019 Portfolio. All rights reserved.
         </p>
       </div>
     </footer>
